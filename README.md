@@ -109,7 +109,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunshankar07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="varunshankar" width="200px"; padding-top="20px" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=varunshankar07&&theme=tokyonight" alt="varunshankar" width="290px" margin-left="10px" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=varunshankar07&&theme=tokyonight" alt="varunshankar" width="290px" padding-down: 20px; padding-right:20px; /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=varunshankar07&show_icons=true&locale=en&theme=tokyonight" alt="varunshankar" width="290px" /></p>
 
