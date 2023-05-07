@@ -22,7 +22,7 @@
 
 🌱 I am currently learning **C++ & Python** and also interested in **Artificial Intelligence, Natural Language Processing &Web Development**
 
-💬 Ask me about **Ai**
+<!--💬 Ask me about **Artifical Intelligence** -->
 
 🎯 My Goal is to **Contribute To Open Source And Crack Big Tech Companies**
 
