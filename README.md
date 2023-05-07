@@ -35,7 +35,7 @@
 
 <p align="left">  
   <a href="https://twitter.com/varunapr07" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-  <a href="https:www.linkedin.com/in/varunshankar07" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/varunshankar07/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
   <a href="https://instagram.com/varuns_101" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
   <a href="https://discord.com/users/Captain Nemo#8119" target="blank" style="display: inline-block; vertical-align: middle; margin-top: -20px;"><img src="https://svgshare.com/i/stF.svg" height="35px" width="35px"></a>
 </p>
