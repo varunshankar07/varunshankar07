@@ -14,7 +14,7 @@
  
 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
 
-🌱 I am currently learning **C++ & Python** and also interested in **Artificial Intelligence, Natural Language Processing, Competative Programming & Web Development**
+🌱 I am currently learning **C++ & Python** and also interested in **Artificial Intelligence, Natural Language Processing, Neural Networks, Machine Learning,           Competative Programming & Web Development**
 
 <!--💬 Ask me about **Artifical Intelligence** -->
 
