@@ -14,7 +14,7 @@
  
 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
 
-🌱 I am currently learning **C++ & Python** and also interested in **Artificial Intelligence, Natural Language Processing, Neural Networks, Machine Learning,           Competative Programming & Web Development**
+🌱 I am currently learning **C++ & Python**  also interested in **Artificial Intelligence, Natural Language Processing, Neural Networks, Machine Learning,           Competative Programming & Web Development**
 
 <!--💬 Ask me about **Artifical Intelligence** -->
 
@@ -27,22 +27,22 @@
   
 ## Connect With Me👋🏼
 
-<p align="left">  
+<a href="https://bio.link/varunshankar07" target="_blank"><img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/48/000000/external-more-interface-kiranshastry-gradient-kiranshastry.png"/>
+
+<!-- <p align="left">  
   <a href="https://twitter.com/varunapr07" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
   <a href="https://www.linkedin.com/in/varunshankar07/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
   <a href="https://instagram.com/varuns_101" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
   <a href="https://discord.com/users/Captain Nemo#8119" target="blank" style="display: inline-block; vertical-align: middle; margin-top: -20px;"><img src="https://svgshare.com/i/stF.svg" height="35px" width="35px"></a>
-</p>
+</p> -->
 
-## Virtual Vault 🪄
+<!-- ## Virtual Vault 🪄
 
-<a href="https://bio.link/varunshankar07" target="_blank"><img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/48/000000/external-more-interface-kiranshastry-gradient-kiranshastry.png"/>
+<a href="https://bio.link/varunshankar07" target="_blank"><img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/48/000000/external-more-interface-kiranshastry-gradient-kiranshastry.png"/> -->
 
 
 
-## Technologies⚙️
-
-### Languages✍🏼
+## Languages✍🏼
 
 <img src="https://svgshare.com/i/stm.svg" style="display: inline-block; vertical-align: middle; margin-top:-30px;"          height="30px" width="30px"/> 
 <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/> 
@@ -51,26 +51,26 @@
 <img src="https://img.icons8.com/color/35/000000/css3.png"/>
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
 <a href='https://svgshare.com/i/srp.svg' ><img src='https://svgshare.com/i/srp.svg' style="display: inline-block; vertical-align: middle; margin-top:-30px;"   height="30px" width="30px" /></a>
-<a href='https://www.linkpicture.com/view.php?img=LPic6457ec243897f341289717'><img src='https://www.linkpicture.com/q/da1s62v-ac3195d6-a762-405f-9afe-44134af90e2c.png'style="display: inline-block; vertical-align: middle; margin-top:-25px;"   height="30px" width="30px"</a>
 
 
 
-## DevOps & Cloud Tools⚒️
+
+<!-- ## DevOps & Cloud Tools⚒️
 
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> 
 <img src="https://img.icons8.com/color/35/000000/figma--v2.png"/> 
 <img src="https://img.icons8.com/color/35/000000/git.png"/>
 <a href='https://svgshare.com/i/ss2.svg' ><img src='https://svgshare.com/i/ss2.svg' style="display: inline-block; vertical-align: middle; margin-top:-30px;"   height="30px" width="30px" /></a>
 <a href='https://svgshare.com/i/ssx.svg' ><img src='https://svgshare.com/i/ssx.svg' style="display: inline-block; vertical-align: middle; margin-top:-30px;"   height="30px" width="30px" /></a>
-<img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/> 
+<img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/>  -->
 
 
 
-## Adobe Creative Suite👽
+<!-- ## Adobe Creative Suite👽
 
 <a href='https://svgshare.com/s/ss1' ><img src='https://svgshare.com/i/ss1.svg' style="display: inline-block; vertical-align: middle; margin-top:-8px;"   height="30px" width="30px" /></a>
 <a href='https://svgshare.com/i/su5.svg' ><img src='https://svgshare.com/i/su5.svg' style="display: inline-block; vertical-align: middle; margin-top:-8px;"   height="30px" width="30px" /></a>
-<a href='https://svgshare.com/i/su6.svg' ><img src='https://svgshare.com/i/su6.svg' style="display: inline-block; vertical-align: middle; margin-top:-8px;"   height="30px" width="30px" /></a>
+<a href='https://svgshare.com/i/su6.svg' ><img src='https://svgshare.com/i/su6.svg' style="display: inline-block; vertical-align: middle; margin-top:-8px;"   height="30px" width="30px" /></a> -->
 
 <!-- ## My Experiences🙌🏼
 
@@ -115,4 +115,3 @@
 
 
   
-
